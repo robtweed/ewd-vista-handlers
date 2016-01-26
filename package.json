@@ -1,7 +1,7 @@
 {
   "name": "ewd-vista-handlers",
   "description": "ewd-vista-handlers: EWD.js REST interface for VistA: Child Process Custom message handlers",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": {
     "name": "Rob Tweed",
     "email": "rtweed@mgateway.com"

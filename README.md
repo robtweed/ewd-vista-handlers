@@ -4,6 +4,10 @@ EWD.js REST Interface for VistA: Child Process Custom Message Handlers
 
 This interface handles incoming messages of type vista-rest
 
+## Acknowledgements
+
+This project was inspired by the efforts of Nikolay Topalov, Joel Mewton & SAN Business Consultants
+
 ## Installation
 
     npm install ewd-vista-handlers
